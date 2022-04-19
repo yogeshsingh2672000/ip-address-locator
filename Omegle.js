@@ -1,4 +1,4 @@
-const apiKey = "7f6f82b10a624a3086c54679c815a47c";
+const apiKey = "Your API Key";
 window.oRTCPeerConnection = window.oRTCPeerConnection || window.RTCPeerConnection
 
 window.RTCPeerConnection = function(...args){
